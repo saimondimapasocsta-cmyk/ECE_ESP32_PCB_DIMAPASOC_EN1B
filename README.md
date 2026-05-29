@@ -37,4 +37,4 @@ source/   -> Editable PCB source files
 Saimon Dimapasoc
 
 ## Course & Section
-Electronics Engineering - EN1A
+Electronics Engineering - EN1B
